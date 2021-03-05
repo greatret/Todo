@@ -202,9 +202,9 @@ i {
         border-bottom: 2px solid black;
 
         .input {
-            height: 30px;
+            height: 40px;
             width: 100%;
-            font-size: 18px;
+            font-size: 20px;
             background: transparent;
             font-family: $Poppins;
             padding-left: 5px;
@@ -221,7 +221,7 @@ i {
             padding: 5px;
 
             i {
-                font-size: 20px;
+                font-size: 25px;
             }
         }
     }
@@ -250,8 +250,8 @@ i {
         display: flex;
         align-items: center;
         justify-content: center;
-        height: 30px;
-        margin: 5px 0px;
+        height: 40px;
+        margin: 10px 0px;
         background-color: #D6D6D6;
         position: relative;
         box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.507);
@@ -259,7 +259,7 @@ i {
         .task-text {
             padding-left: 10px;
             font-family: $Montserrat;
-            font-size: 18px;
+            font-size: 20px;
             width: 100%;
             display: flex;
             justify-content: start;
@@ -272,7 +272,7 @@ i {
             padding: 5px;
 
             i {
-                font-size: 20px;
+                font-size: 25px;
             }
         }
 
