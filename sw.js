@@ -35,6 +35,10 @@ self.addEventListener('fetch', (event) => {
     }));
 });
 
+
+
+// code by me 
+
 // Always updating i.e latest version available...
 self.addEventListener('install', (event) => {
     self.skipWaiting();

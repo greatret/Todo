@@ -60,6 +60,11 @@ function formvalidate() {
     } else {
         document.querySelector('.input-alert').style.display = 'none';
         addtask();
-        Push.create('Hello World!')
     }
+}
+
+window.setInterval(alertpush, 1000);
+
+function alertpush() {
+    Push.create('Hello World!');
 }
