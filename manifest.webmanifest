@@ -4,6 +4,7 @@
     "start_url": "index.html",
     "display": "standalone",
     "background_colour": "#202020",
+    "theme_colour": "#202020",
     "description": "A TO DO App.",
     "icons": [{
             "src": "icon1.png",
